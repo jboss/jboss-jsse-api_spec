@@ -24,7 +24,7 @@
 
     <groupId>org.jboss.spec.javax.net.ssl</groupId>
     <artifactId>jboss-jsse-api_8.0_spec</artifactId>
-    <version>1.0.0.Final</version>
+    <version>1.0.1.Final</version>
 
     <parent>
         <groupId>org.jboss</groupId>
